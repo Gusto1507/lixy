@@ -109,4 +109,4 @@ client.on("message", async (message) => {
   }
 });
 
-client.login("ODIzNjY2OTYyNzY0NjYwNzU2.YFkJog.itnVq2UJ3qxWkWQywM5VOTZRfgg");
+client.login("token_here");
