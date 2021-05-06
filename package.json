@@ -1,0 +1,37 @@
+{
+  "name": "build-a-discord-bot",
+  "version": "0.0.1",
+  "description": "This an easy-to-understand template for a Discord bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "PlayStream": "^0.2.13",
+    "array-move": "^3.0.1",
+    "discord.js": "^11.6.4",
+    "discord.js-musicbot-addon": "^13.9.1",
+    "express": "^4.17.1",
+    "i18n": "^0.13.2",
+    "lyrics-finder": "^21.7.0",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^0.2.4",
+    "string-progressbar": "^1.0.3",
+    "yt-search": "^2.7.1",
+    "ytdl-core": "^4.4.5",
+    "ytdl-core-discord": "^1.2.5"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/build-a-discord-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
